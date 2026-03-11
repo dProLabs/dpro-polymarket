@@ -1,0 +1,17 @@
+{
+  "name": "dpro-polymarket",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Polymarket prediction market trading skill for Claude Code",
+  "main": "scripts/entry.mjs",
+  "scripts": {
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "@polymarket/clob-client": "^5.0.0",
+    "ethers": "^5.8.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dpro-pm",
+  "description": "Polymarket prediction market skill for market data and trading",
+  "version": "1.0.0",
+  "author": {
+    "name": "dProLabs"
+  },
+  "license": "MIT",
+  "keywords": [
+    "polymarket",
+    "prediction-market",
+    "trading",
+    "web3",
+    "polygon"
+  ],
+  "skills": [
+    "./"
+  ]
+}

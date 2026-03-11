@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Local tool settings
+.clawhub/*
+!.clawhub/INSTALL.md
+.claude/settings.local.json
+.claude
+CLAUDE.md
+
+# Encrypted credential files (user-specific, never commit)
+~/.config/dpro-pm/
+
+# Local helper scripts
+git-safe.sh
+docs
+
+# Planning / walkthrough docs (not required for runtime skill delivery)
+skills-plan.md
+docs/agent-walkthrough.md
+docs/implementation-plan.md
+
+# OS / temp files
+.DS_Store
+*.log

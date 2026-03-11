@@ -1,0 +1,43 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dpro-pm",
+  "description": "Polymarket skill for AI coding assistants — prediction market data, account management, and YES/NO trading on Polygon",
+  "owner": {
+    "name": "dProLabs"
+  },
+  "metadata": {
+    "description": "Polymarket skill with market search, price quotes, order books, trading, and portfolio management"
+  },
+  "plugins": [
+    {
+      "name": "dpro-pm",
+      "source": "./",
+      "description": "Single-skill package for Polymarket prediction market trading: search markets, get YES/NO prices, view order books, place limit/market orders, manage positions and open orders",
+      "version": "1.0.0",
+      "author": {
+        "name": "dProLabs"
+      },
+      "license": "MIT",
+      "keywords": [
+        "skills",
+        "polymarket",
+        "prediction-market",
+        "trading",
+        "web3",
+        "polygon",
+        "clob",
+        "orderbook"
+      ],
+      "category": "web3",
+      "tags": [
+        "skills",
+        "polymarket",
+        "prediction-market",
+        "trading",
+        "web3",
+        "polygon"
+      ],
+      "strict": false
+    }
+  ]
+}

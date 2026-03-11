@@ -1,0 +1,17 @@
+{
+  "name": "dpro-pm",
+  "version": "1.0.0",
+  "skills": [
+    "./"
+  ],
+  "keywords": [
+    "skills",
+    "polymarket",
+    "prediction-market",
+    "trading",
+    "web3",
+    "polygon",
+    "clob",
+    "orderbook"
+  ]
+}
