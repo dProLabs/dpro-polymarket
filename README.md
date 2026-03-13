@@ -12,7 +12,7 @@ One skill surface covering market search, YES/NO price quotes, order books, acco
 
 ```bash
 # Claude Code
-git clone <repo-url> .claude/skills/dpro-pm
+git clone https://github.com/dProLabs/dpro-polymarket.git .claude/skills/dpro-pm
 cd .claude/skills/dpro-pm && npm install
 ```
 
@@ -25,7 +25,7 @@ Skills: .claude/skills/dpro-pm/SKILL.md
 ### Local Development
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/dProLabs/dpro-polymarket.git
 cd dpro-polymarket
 npm install
 ```
@@ -161,6 +161,10 @@ scripts/
 | CLOB | `https://clob.polymarket.com` | Orderbook + trading (L2 auth for trades) |
 | Gamma | `https://gamma-api.polymarket.com` | Markets, events, search (no auth) |
 | Data | `https://data-api.polymarket.com` | Positions, trade history (no auth) |
+
+## Website
+
+https://www.d.pro/
 
 ## Contract Addresses (Polygon)
 

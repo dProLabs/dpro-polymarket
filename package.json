@@ -2,7 +2,21 @@
   "name": "dpro-polymarket",
   "version": "1.0.0",
   "type": "module",
-  "description": "Polymarket prediction market trading skill for Claude Code",
+  "description": "Polymarket trading skill for agent environments",
+  "homepage": "https://www.d.pro/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dProLabs/dpro-polymarket.git"
+  },
+  "keywords": [
+    "polymarket",
+    "prediction-markets",
+    "trading",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "opencode"
+  ],
   "main": "scripts/entry.mjs",
   "scripts": {
     "install-deps": "npm install"
